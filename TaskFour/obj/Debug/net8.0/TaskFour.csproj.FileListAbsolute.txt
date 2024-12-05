@@ -1,0 +1,14 @@
+C:\Users\aminm\source\repos\TaskFour\TaskFour\bin\Debug\net8.0\TaskFour.exe
+C:\Users\aminm\source\repos\TaskFour\TaskFour\bin\Debug\net8.0\TaskFour.deps.json
+C:\Users\aminm\source\repos\TaskFour\TaskFour\bin\Debug\net8.0\TaskFour.runtimeconfig.json
+C:\Users\aminm\source\repos\TaskFour\TaskFour\bin\Debug\net8.0\TaskFour.dll
+C:\Users\aminm\source\repos\TaskFour\TaskFour\bin\Debug\net8.0\TaskFour.pdb
+C:\Users\aminm\source\repos\TaskFour\TaskFour\obj\Debug\net8.0\TaskFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aminm\source\repos\TaskFour\TaskFour\obj\Debug\net8.0\TaskFour.AssemblyInfoInputs.cache
+C:\Users\aminm\source\repos\TaskFour\TaskFour\obj\Debug\net8.0\TaskFour.AssemblyInfo.cs
+C:\Users\aminm\source\repos\TaskFour\TaskFour\obj\Debug\net8.0\TaskFour.csproj.CoreCompileInputs.cache
+C:\Users\aminm\source\repos\TaskFour\TaskFour\obj\Debug\net8.0\TaskFour.dll
+C:\Users\aminm\source\repos\TaskFour\TaskFour\obj\Debug\net8.0\refint\TaskFour.dll
+C:\Users\aminm\source\repos\TaskFour\TaskFour\obj\Debug\net8.0\TaskFour.pdb
+C:\Users\aminm\source\repos\TaskFour\TaskFour\obj\Debug\net8.0\TaskFour.genruntimeconfig.cache
+C:\Users\aminm\source\repos\TaskFour\TaskFour\obj\Debug\net8.0\ref\TaskFour.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aminm\\source\\repos\\TaskFour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23978C8C-3E9F-4804-B165-5C565D7B083D}|TaskFour\\TaskFour.csproj|c:\\users\\aminm\\source\\repos\\taskfour\\taskfour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23978C8C-3E9F-4804-B165-5C565D7B083D}|TaskFour\\TaskFour.csproj|solutionrelative:taskfour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aminm\\source\\repos\\TaskFour\\TaskFour\\Program.cs",
+              "RelativeDocumentMoniker": "TaskFour\\Program.cs",
+              "ToolTip": "C:\\Users\\aminm\\source\\repos\\TaskFour\\TaskFour\\Program.cs*",
+              "RelativeToolTip": "TaskFour\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:08:35.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
